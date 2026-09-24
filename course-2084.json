@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-ChenFeng-z",
-  "commit": "ec916f91f75ef23d7522a385b90147f1b3d9d7ad",
-  "score": 49,
+  "commit": "922a2623cd5de7e4f9760c08c2477076f97ac128",
+  "score": 50,
   "totalScore": 110,
   "exercises": [
     {
@@ -352,9 +352,9 @@
     {
       "name": "options3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "errors1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "ChenFeng-z",
-  "runId": "35991670373",
+  "runId": "35991883384",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
