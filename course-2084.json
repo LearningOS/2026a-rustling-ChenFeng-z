@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-ChenFeng-z",
-  "commit": "203db581570234d559e2b074718c93bcae74486e",
-  "score": 63,
+  "commit": "a081b82c4bb8cbea059ec0c3039ac4d8e7a094ec",
+  "score": 64,
   "totalScore": 110,
   "exercises": [
     {
@@ -450,9 +450,9 @@
     {
       "name": "quiz3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "lifetimes1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "ChenFeng-z",
-  "runId": "36306562573",
+  "runId": "36307001754",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
